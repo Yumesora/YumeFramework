@@ -22,3 +22,7 @@
 2020-06-16 11: 05: 35 | [31merror[0m | 14988 | 435.99 kb | {"code":404,"message":"Action:Index Not Found","__coreError":{"e_code":404,"e_message":"Action:Index Not Found","infomations":{"file":"\/Users\/lingmumeng\/Web\/YumeFramework\/framework\/router\/YumeRouter.php","line":264,"trace":[{"file":"\/Users\/lingmumeng\/Web\/YumeFramework\/framework\/router\/YumeRouter.php","line":189,"function":"start","class":"Framework\\Router\\YumeRouter","type":"->","args":[]},{"file":"\/Users\/lingmumeng\/Web\/YumeFramework\/framework\/handles\/RouterHandle.php","line":28,"function":"init","class":"Framework\\Router\\YumeRouter","type":"->","args":[{"runningMode":false}]},{"file":"\/Users\/lingmumeng\/Web\/YumeFramework\/framework\/App.php","line":240,"function":"register","class":"Framework\\Handles\\RouterHandle","type":"->","args":[{"runningMode":false}]},{"file":"\/Users\/lingmumeng\/Web\/YumeFramework\/framework\/run.php","line":104,"function":"run","class":"Framework\\App","type":"->","args":[{}]},{"file":"\/Users\/lingmumeng\/Web\/YumeFramework\/public\/index.php","line":19,"args":["\/Users\/lingmumeng\/Web\/YumeFramework\/framework\/run.php"],"function":"require"}]}}}
 
 
+
+
+
+
