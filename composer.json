@@ -1,0 +1,56 @@
+{
+    "name": "yumesora/dreamsky",
+    "description": "The Yumesora Framework.",
+    "type": "project",
+    "keywords": [
+        "framework",
+        "Yumesora"
+    ],
+    "require": {
+        "php": ">=7.1.3",
+        "phpunit/phpunit": "*",
+        "willdurand/jsonp-callback-validator": "*",
+        "singiu/wordban": "*",
+        "seld/jsonlint": "*",
+        "phpoption/phpoption": "*",
+        "phpcollection/phpcollection": "*",
+        "michelf/php-markdown": "1.*",
+        "erusev/parsedown": "*",
+        "guzzlehttp/guzzle": "*",
+        "desarrolla2/cache": "*",
+        "phpfastcache/phpfastcache": "*",
+        "asika/sitemap": "*",
+        "windwalker/test": "*",
+        "windwalker/environment": "*",
+        "catfan/medoo": "*",
+        "phpmailer/phpmailer": "*",
+        "intervention/image": "*",
+        "naux/auto-correct": "*",
+        "meenie/munee": "*",
+        "league/route": "*",
+        "hassankhan/config": "*",
+        "league/html-to-markdown": "*",
+        "easy-framework/easy-log": "^0.1.0"
+    },
+    "require-dev": {
+        "filp/whoops": "*",
+        "symfony/var-dumper": "*",
+        "maximebf/debugbar": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "application/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yumesora",
+            "email": "2396203469@qq.com"
+        }
+    ]
+}

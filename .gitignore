@@ -1,0 +1,15 @@
+vendor
+
+.env
+
+node_modules
+
+.tmp_staging
+
+yarn-error.log
+
+clover.cxml
+
+.idea
+
+composer.lock
